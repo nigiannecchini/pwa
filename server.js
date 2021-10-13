@@ -9,6 +9,8 @@ const FORECAST_DELAY = 0;
 const API_KEY = 'e0fcd036652368395c7ab4d43d62d7a6';
 const BASE_URL = 'https://api.darksky.net/forecast';
 
+// Por favor, solicitar sua própria Key em https://opencagedata.com/
+// Por favor, solicite su propia clave en https://opencagedata.com/
 const CURRENT_API_KEY = 'e2b1e65cc91c47eeb8f5e46943a80c60';
 const CURRENT_BASE_URL = 'https://api.opencagedata.com/geocode/v1/json';
 
